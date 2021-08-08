@@ -5,7 +5,7 @@
 2. [Project Overview](#overview)
 3. [Files in the Repository](#files)
 4. [Instructions](#Instructions)
-5. [Results](#results)
+5. [Observations](#observations)
 6. [Licensing, Authors, and Acknowledgements](#licensing)
 
 ## Installation <a name="installation"></a>
@@ -48,11 +48,11 @@ Along with exploring state-of-the-art CNN models for classification, you will ma
 
 3. Download the [human dataset](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/lfw.zip).  Unzip the folder and place it in the repo, at location `path/to/dog-project/lfw`.  If you are using a Windows machine, you are encouraged to use [7zip](http://www.7-zip.org/) to extract the folder. 
 
-4. You may download the botteneck features from the link provided in the notebook should you wish to use any other than what is already downloaded.
+4. You may download the botteneck features from the link provided in the notebook should you wish to use any other than what is already downloaded (I have used InceptionV3 and VGG16 which will need to be downloaded).
 	
 3. Run the Jupyter notebook Starbucks.ipynb till the end to get the results.
 
-## Observations<a name="results"></a>
+## Observations<a name="observations"></a>
 
 The Observations corresponding to each technique is discussed in the notebook.
 
